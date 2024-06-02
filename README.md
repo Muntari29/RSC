@@ -1,0 +1,2 @@
+# RSC
+react server components
